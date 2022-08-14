@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Campina Abandonada","order":1,"parentId":0,"scrollX":776,"scrollY":396},
+{"id":2,"expanded":true,"name":"Cidade Normal","order":4,"parentId":0,"scrollX":1088,"scrollY":1232},
+{"id":3,"expanded":false,"name":"Casa Grande 1º Andar","order":2,"parentId":1,"scrollX":776,"scrollY":1044},
+{"id":4,"expanded":false,"name":"Cidade da Neve","order":3,"parentId":1,"scrollX":816,"scrollY":800}
+]
